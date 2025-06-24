@@ -1,0 +1,153 @@
+String-Based Questions (30)
+
+1.Reverse a String
+                                 --- completed 
+2.Check if a String is Palindrome
+                                  --- completed 
+3.Check if two Strings are Anagrams
+                                    --- completed
+4.Count the number of vowels and consonants in a String
+                                    --- completed
+5.Remove all duplicates from a String
+                                  --- completed
+6.Remove all white spaces from a String
+                                  --- completed                                    
+7.Find the first non-repeating character
+                                  --- completed
+8.Print all duplicates in a String
+                                  --- completed
+9.Check if a String contains only digits
+                                  --- completed
+10.Find the most frequent character
+                                  --- completed
+11.Convert a String to title case
+
+12.Check if two strings are rotations of each other
+
+13.Find the longest palindrome substring
+
+14.Convert a String to an integer (custom implementation of atoi)
+
+15.Count words in a String
+
+16.Check if a string is a valid palindrome ignoring spaces/special chars
+
+17.Implement strstr() function (Find substring in main string)
+
+18.Implement custom replace() function in a String
+
+19.Check if one String is a subsequence of another
+
+20.Find the longest common prefix among array of strings
+
+Toggle each character in a string (uppercase to lowercase and vice versa)
+
+Compress the string using counts of repeated characters (Run Length Encoding)
+
+Sort characters of a string
+
+Find if a string is isogram (no repeating characters)
+
+Print all permutations of a string
+
+Convert Roman numerals to Integer
+
+Find length of the longest substring without repeating characters
+
+Find minimum number of deletions to make two strings anagrams
+
+Check if a string has balanced brackets
+
+Implement pattern matching (like wildcard * and ? matching)
+
+🧮 Array-Based Questions (30)
+Find the largest element in an array
+
+Find the second largest element in an array
+
+Check if an array is sorted
+
+Reverse an array
+
+Remove duplicates from a sorted array
+
+Remove duplicates from an unsorted array
+
+Find the frequency of each element
+
+Find the missing number in an array of 1 to N
+
+Find the duplicate element in an array
+
+Merge two sorted arrays
+
+Move all zeros to the end of the array
+
+Sort an array of 0s, 1s and 2s (Dutch National Flag)
+
+Find the intersection of two arrays
+
+Rotate an array to the right by k steps
+
+Find the maximum sum subarray (Kadane's Algorithm)
+
+Check if a subarray with 0 sum exists
+
+Count pairs with given sum
+
+Find the element that appears only once when all others appear twice
+
+Left rotate an array by 1 place
+
+Count even and odd numbers in an array
+
+Find the leader elements in the array
+
+Find peak element in an array
+
+Find minimum and maximum in an array
+
+Find first repeating element
+
+Find first non-repeating element
+
+Rearrange positive and negative numbers alternatively
+
+Segregate even and odd numbers
+
+Replace every element with the greatest element on its right
+
+Check if array contains a subarray with given sum
+
+Count how many numbers are smaller than the current number (brute)
+
+🔁 Logical Pattern / Palindrome / Number-Like Basic Problems (15)
+Check if a number is Palindrome
+
+Check if a number is Armstrong
+
+Check if a number is Prime
+
+Generate Fibonacci series
+
+Factorial of a number
+
+Sum of digits of a number
+
+Count number of digits in a number
+
+Reverse digits of a number
+
+Swap two numbers without using third variable
+
+Print factors of a number
+
+Find GCD and LCM of two numbers
+
+Convert decimal to binary
+
+Convert binary to decimal
+
+Count number of 1s in binary representation
+
+Check if a number is Strong number
